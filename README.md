@@ -138,7 +138,7 @@ Profit is analyzed across product sub-categories such as:
 
 ## 🖼️ Dashboard Preview
 
-![Madhav E-commerce Sales Dashboard](Screenshots/dashboard.png)
+Screenshots/Screenshot 2026-09-28 113118.jpg
 
 ---
 
